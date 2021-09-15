@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="37bc0a9d-90fa-4943-91ca-e26f522a7c11" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="E:\maven-repository" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../APP/apache-maven-3.8.2-bin/apache-maven-3.8.2" />
+        <option name="userSettingsFile" value="G:\APP\apache-maven-3.8.2-bin\apache-maven-3.8.2\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="#JAVA_HOME" />
+    <option name="vmOptions" value="-DarchetypeCatalog=local" />
+  </component>
+  <component name="ProjectId" id="1xoTjskM3M35BjdtQKtk75q1fCk" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.importing" />
+  </component>
+  <component name="RunManager" selected="Spring Boot.SpringRestProviderBootstrap(1)">
+    <configuration name="SpringRestConsumerBootstrap" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="nacos-restful-consumer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.consumer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.consumer.SpringRestConsumerBootstrap" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="UPDATE_ACTION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringRestProviderBootstrap" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="nacos-restful-provider" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.provider.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.provider.SpringRestProviderBootstrap" />
+      <option name="VM_PARAMETERS" value="-Dserver.port=8080" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="UPDATE_ACTION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringRestProviderBootstrap(1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="nacos-restful-provider" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.provider.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.provider.SpringRestProviderBootstrap" />
+      <option name="VM_PARAMETERS" value="-Dserver.port=8082" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="UPDATE_ACTION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.SpringRestProviderBootstrap(1)" />
+      <item itemvalue="Spring Boot.SpringRestConsumerBootstrap" />
+      <item itemvalue="Spring Boot.SpringRestProviderBootstrap" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.SpringRestProviderBootstrap" />
+        <item itemvalue="Spring Boot.SpringRestConsumerBootstrap" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="37bc0a9d-90fa-4943-91ca-e26f522a7c11" name="Default Changelist" comment="" />
+      <created>1631020579754</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1631020579754</updated>
+      <workItem from="1631020580988" duration="2585000" />
+      <workItem from="1631063163510" duration="1002000" />
+      <workItem from="1631067684870" duration="8574000" />
+      <workItem from="1631424800496" duration="136000" />
+      <workItem from="1631535617790" duration="47000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="265" y="0" key="#Notifications" timestamp="1631067732573">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="265" y="0" key="#Notifications/0.0.1536.824@0.0.1536.824" timestamp="1631067732573" />
+    <state x="227" y="45" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1631079669866">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="227" y="45" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1631079669866" />
+    <state x="477" y="239" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1631062446236">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="477" y="239" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.0.1536.824@0.0.1536.824" timestamp="1631062446236" />
+    <state x="494" y="35" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1631074180970">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="494" y="35" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/0.0.1536.824@0.0.1536.824" timestamp="1631074180970" />
+    <state x="503" y="79" key="FileChooserDialogImpl" timestamp="1631062439594">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="503" y="79" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1631062439594" />
+    <state width="1330" height="285" key="GridCell.Tab.0.bottom" timestamp="1631083499263">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1330" height="285" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1631083499263" />
+    <state width="1330" height="285" key="GridCell.Tab.0.center" timestamp="1631083499263">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1330" height="285" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1631083499263" />
+    <state width="1330" height="285" key="GridCell.Tab.0.left" timestamp="1631083499263">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1330" height="285" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1631083499263" />
+    <state width="1330" height="285" key="GridCell.Tab.0.right" timestamp="1631083499263">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1330" height="285" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1631083499263" />
+    <state width="1330" height="285" key="GridCell.Tab.1.bottom" timestamp="1631083499263">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1330" height="285" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1631083499263" />
+    <state width="1330" height="285" key="GridCell.Tab.1.center" timestamp="1631083499263">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1330" height="285" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1631083499263" />
+    <state width="1330" height="285" key="GridCell.Tab.1.left" timestamp="1631083499263">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1330" height="285" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1631083499263" />
+    <state width="1330" height="285" key="GridCell.Tab.1.right" timestamp="1631083499263">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1330" height="285" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1631083499263" />
+    <state width="1330" height="216" key="GridCell.Tab.2.bottom" timestamp="1631083496381">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1330" height="216" key="GridCell.Tab.2.bottom/0.0.1536.824@0.0.1536.824" timestamp="1631083496381" />
+    <state width="1330" height="216" key="GridCell.Tab.2.center" timestamp="1631083496380">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1330" height="216" key="GridCell.Tab.2.center/0.0.1536.824@0.0.1536.824" timestamp="1631083496380" />
+    <state width="1330" height="216" key="GridCell.Tab.2.left" timestamp="1631083496380">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1330" height="216" key="GridCell.Tab.2.left/0.0.1536.824@0.0.1536.824" timestamp="1631083496380" />
+    <state width="1330" height="216" key="GridCell.Tab.2.right" timestamp="1631083496381">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1330" height="216" key="GridCell.Tab.2.right/0.0.1536.824@0.0.1536.824" timestamp="1631083496381" />
+    <state x="149" y="0" key="SettingsEditor" timestamp="1631021649324">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="149" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1631021649324" />
+    <state x="496" y="181" key="com.intellij.ide.util.TipDialog" timestamp="1631424799482">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="496" y="181" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1631424799482" />
+    <state x="27" y="44" key="new project wizard" timestamp="1631021582722">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="27" y="44" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1631021582722" />
+    <state x="351" y="-2" width="840" height="1034" key="search.everywhere.popup" timestamp="1631021866902">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="351" y="-2" width="840" height="1034" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1631021866902" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/nacos-restful-consumer/src/main/java/com/consumer/controller/RestConsumerController.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

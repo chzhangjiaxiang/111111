@@ -1,0 +1,16 @@
+server:
+  port: 8081
+spring:
+  application:
+    name: nacos-restful-consumer #服务名
+  cloud:
+    nacos:
+      discovery:
+        server-addr: 127.0.0.1:8848 #服务发现中心地址
+#配置服务提供方提供的ip地址（ip和端口）
+provider:
+  address: localhost:8080
+#在服务消费方的配置文件中修改默认的负载均衡策略
+nacos-restful-provider:
+  ribbon:
+    NFLoadBalancerRuleClassName: com.netflix.loadbalancer.RandomRule #随机策略
